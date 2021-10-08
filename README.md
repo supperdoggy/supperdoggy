@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @supperdoggy
 - 👀 I’m interested doing stuff when i'm bored
 - 🌱 I’m currently learning go, aws, es, sql and nosql
-- 📫 How to reach me supperspggy229@gmail.com
+- 📫 How to reach me maksym.marchyshak@icloud.com
 
 <!---
 supperdoggy/supperdoggy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
