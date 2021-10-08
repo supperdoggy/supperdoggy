@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @supperdoggy
 - 👀 I’m interested doing stuff when i'm bored
-- 🌱 I’m currently learning go, aws, es, all different dbs
+- 🌱 I’m currently learning go, aws, es, sql and nosql
 - 📫 How to reach me supperspggy229@gmail.com
 
 <!---
